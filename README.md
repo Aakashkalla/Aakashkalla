@@ -3,6 +3,7 @@ Hi, I'm Aakash! 👋
 Working on that :)
 
 About Me
+
 👩‍💻 I'm currently working on Frontend Development
 
 🧠 I'm currently learning HTML, CSS and JS
