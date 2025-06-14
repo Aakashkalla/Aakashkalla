@@ -8,7 +8,7 @@ About Me
 
 👩‍💻 I'm currently working on Frontend Development
 
-🧠 I'm currently learning HTML, CSS and JS
+🧠 I'm currently learning HTML, CSS, JS and Java
 
 🤔 I'm looking for help with Web Development
 
