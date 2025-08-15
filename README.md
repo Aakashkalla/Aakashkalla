@@ -6,9 +6,9 @@ Working on that :)
 
 About Me
 
-👩‍💻 I'm currently working on Frontend Development
+👩‍💻 I'm currently working on FullStack Development
 
-🧠 I'm currently learning HTML, CSS, JS and Java
+🧠 I'm currently learning React Backend and Java
 
 🤔 I'm looking for help with Web Development
 
