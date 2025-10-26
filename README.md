@@ -20,7 +20,7 @@
   <a href="https://github.com/AakashKalla" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:aakash@example.com" target="_blank">
+  <a href="mailto:aakashpradeepkalla@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
