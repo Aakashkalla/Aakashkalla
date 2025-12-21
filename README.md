@@ -40,15 +40,14 @@
 ## 📚 Learning & Growing
 
 - React.js & Next.js
-- Java & Spring Boot
-- Database Management (MongoDB / MySQL)
+- Database Management (MongoDB / POSTGRESQL)
 
 ---
 
 ## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,mongodb,mysql,git,github,vscode&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgresql,git,github,vscode&theme=light"/>
 </div>
 
 ---
