@@ -50,14 +50,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgresql,git,github,vscode&theme=light"/>
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AakashKalla&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6A00&text_color=ffffff&icon_color=FF9F00&border_radius=12" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AakashKalla&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6A00&text_color=ffffff&border_radius=12" height="180"/>
-</div>
 
 
 <div align="center">
