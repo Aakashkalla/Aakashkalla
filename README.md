@@ -59,23 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AakashKalla&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6A00&text_color=ffffff&border_radius=12" height="180"/>
 </div>
 
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashKalla&theme=radical&hide_border=true&background=0d1117&stroke=FF6A00&ring=FF6A00&fire=FF9F00&currStreakLabel=FF6A00&sideLabels=ffffff&dates=ffffff&border_radius=12" height="180"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AakashKalla&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AakashKalla&style=for-the-badge&color=FF6A00&label=Profile+Views" alt="Profile Views"/>
