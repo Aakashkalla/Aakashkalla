@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgresql,git,github,vscode&theme=light"/>
 </div>
 
-
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AakashKalla&style=for-the-badge&color=FF6A00&label=Profile+Views" alt="Profile Views"/>
